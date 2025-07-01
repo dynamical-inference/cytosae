@@ -1,0 +1,13 @@
+basophil
+eosinophil
+erythroblast
+ig
+lympocyte
+metamyelocyte
+monocyte
+myelocyte
+neutrophil
+neutrophil_band
+neutrophil_segmented
+platelet
+promyelocyte
