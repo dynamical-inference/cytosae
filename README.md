@@ -1,7 +1,7 @@
 # CytoSAE: Interpretable Cell Embeddings for Hematology
 
 ![Architecture and overview](images/figure1.png)  
-[[📑 Pre-print]]()
+[[📑 Pre-print]](https://arxiv.org/abs/2507.12464)
 
 This repository provides a medical application of the PatchSAE framework. See the original [PatchSAE paper](https://github.com/dynamical-inference/patchsae) for a demonstration on natural images and technical details.
 
